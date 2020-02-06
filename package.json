@@ -33,6 +33,7 @@
     "LICENSE",
     "lib",
     "src/middleware",
+    "disc/middleware",
     "schemas"
   ],
   "dependencies": {
